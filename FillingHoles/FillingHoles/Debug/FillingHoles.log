@@ -1,0 +1,4 @@
+﻿  ImagesLoader.cpp
+C:\Users\אור נובוגרודר\source\repos\FillingHoles\ImagesLoader.h(29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\אור נובוגרודר\source\repos\FillingHoles\ImagesLoader.h(36): warning C4018: '<': signed/unsigned mismatch
+opencv_world410d.lib(opencv_world410d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\אור נובוגרודר\Desktop\FillingHoles (2)\FillingHoles\main.cpp(19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\אור נובוגרודר\Desktop\FillingHoles (2)\FillingHoles\main.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FillingHoles.vcxproj -> C:\Users\אור נובוגרודר\Desktop\FillingHoles (2)\FillingHoles\x64\Debug\FillingHoles.exe
